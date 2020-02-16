@@ -1,4 +1,4 @@
-# Vue.js
+# Semaine Vue.js
 
 ## Project setup
 ```
